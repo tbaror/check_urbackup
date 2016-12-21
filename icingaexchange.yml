@@ -1,0 +1,18 @@
+#
+#  Author: Tal Bar-Or
+#  Date: Wed Dec 21 15:42:39 Jerusalem 2016
+#
+
+# must match the Icinga Project Name
+name:Urbackup backup status
+name: simple script to check Urbackup backup status based on https://github.com/uroni/urbackup-server-python-web-api-wrapper
+description: "file:///README.md"
+url: "https://github.com/tbaror/check_urbackup"
+type: Plugin
+license: None
+vendor: Linux
+
+tags: Other
+
+target: Backup
+
