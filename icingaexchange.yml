@@ -1,4 +1,4 @@
-name: Urbackup backup status
+name: Urbackup Backup status check
 description: "file:///README.md"
 url: "https://github.com/tbaror/check_urbackup.git"
 tags: other
