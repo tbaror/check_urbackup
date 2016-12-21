@@ -4,7 +4,7 @@
 #
 
 # must match the Icinga Project Name
-name:Urbackup backup status
+name:Urbackup Backup status check
 name: simple script to check Urbackup backup status based on https://github.com/uroni/urbackup-server-python-web-api-wrapper
 description: "file:///README.md"
 url: "https://github.com/tbaror/check_urbackup"
