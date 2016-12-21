@@ -10,9 +10,5 @@ releases:
   -
     name: 1.0
     description: "1.0 Release"
-    files:
-      -
-        name: Urbackup backup status
-        url: "file:///check_urbackup.py"
-        description: "Urbackup backup status 1.0"
+    
         
