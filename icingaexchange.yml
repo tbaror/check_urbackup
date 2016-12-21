@@ -1,0 +1,18 @@
+name: Urbackup backup status
+description: "file:///README.md"
+url: "https://github.com/tbaror/check_urbackup.git"
+tags: other
+vendor: Linux
+target: Backup
+type: Plugin
+license: Apache License 2.0
+releases:
+  -
+    name: 1.0
+    description: "1.0 Release"
+    files:
+      -
+        name: Urbackup backup status
+        url: "file:///check_urbackup.py"
+        description: "Urbackup backup status 1.0"
+        
